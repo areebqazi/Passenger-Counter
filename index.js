@@ -12,5 +12,6 @@ function save(){
   a=total.innerText+" - "
   prev.textContent+=a
   total.textContent=0
+  count=0;
 }
 
